@@ -10,4 +10,9 @@ We have attached our project report for more detailed explanation of our project
 Hardware setup
 
 ![pic](https://github.com/Varshini-Ganti/Attendance-marking-robot-using-facial-recognition-/assets/87769367/44700b20-6e59-4f37-8762-396ef7891a7c)
+
+Screenshot of final textfile which will be mailed
+
+![image](https://github.com/Varshini-Ganti/Attendance-marking-robot-using-facial-recognition-/assets/87769367/f2afe463-232e-469f-8323-4ed13f86a032)
+
  
